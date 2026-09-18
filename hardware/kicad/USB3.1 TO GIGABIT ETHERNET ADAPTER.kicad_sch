@@ -1,0 +1,140 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "871a7ea6-79e4-4212-915a-73e2ac6ee3be")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 33.02 119.38)
+		(size 88.9 46.99)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "340d003b-933d-4f53-ba24-a9b2e88f1df6")
+		(property "Sheetname" "KZ9031"
+			(at 33.02 118.6684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "KZ9031.kicad_sch"
+			(at 33.02 166.9546 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "USB3.1 TO GIGABIT ETHERNET ADAPTER"
+				(path "/871a7ea6-79e4-4212-915a-73e2ac6ee3be"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 170.18 60.96)
+		(size 95.25 68.58)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "55acfc63-9ee9-4dcc-9c83-55faab9a49f3")
+		(property "Sheetname" "POWER SECTION"
+			(at 170.18 60.2484 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "POWER.kicad_sch"
+			(at 170.18 130.1246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "USB3.1 TO GIGABIT ETHERNET ADAPTER"
+				(path "/871a7ea6-79e4-4212-915a-73e2ac6ee3be"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 33.02 30.48)
+		(size 87.63 48.26)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "777ccb58-39ad-4584-af5c-a4e1aad7357a")
+		(property "Sheetname" "LAN7801_USB"
+			(at 33.02 29.7684 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "LAN7801.kicad_sch"
+			(at 33.02 79.3246 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "USB3.1 TO GIGABIT ETHERNET ADAPTER"
+				(path "/871a7ea6-79e4-4212-915a-73e2ac6ee3be"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
